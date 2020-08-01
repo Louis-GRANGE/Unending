@@ -20,6 +20,7 @@ Have Unreal Engine 4.24 or newer version and run it. There no executable (begin 
 * **Louis Grange** _alias_[@Louis Grange](https://github.com/Louis-GRANGE)
 * **Dorian Vidal** _alias_[@DorianVidal](https://github.com/DorianVidal)
 * **Marc Vialatte** _alias_[@Marc Vialatte](https://github.com/Marc-Vialatte)
+* **Quentin Winnants** _alias_[@Biggu08](https://github.com/Biggu08)
 
 ## License
 
