@@ -1047,3 +1047,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.02-15.53.47:222][317]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/PlayerCharacter.PlayerCharacter
 [2020.08.02-15.53.47:222][317]LogContentValidation: Display: Validating Blueprint /Game/_GameMode/PlayerGM.PlayerGM
 [2020.08.02-15.53.55:387][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.08.02-15.54.32:071][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Blueprints/PlayerCharacter.PlayerCharacter
+[2020.08.02-15.54.32:512][710]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.02-15.54.33:636][793]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.02-15.54.34:458][853]LogSlate: Window 'PlayerCharacter' being destroyed
+[2020.08.02-15.55.05:651][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Blueprints/PlayerCharacter" FILE="../../../../../../Users/doria/Documents/GitHub/Unending/MyProject/Content/Player/Blueprints/PlayerCharacter.uasset" SILENT=true
+[2020.08.02-15.55.05:709][440]LogSavePackage: Moving '../../../../../../Users/doria/Documents/GitHub/Unending/MyProject/Saved/PlayerCharacterF6B22BEF43B40952215080AB475AA4CA.tmp' to '../../../../../../Users/doria/Documents/GitHub/Unending/MyProject/Content/Player/Blueprints/PlayerCharacter.uasset'
+[2020.08.02-15.55.05:722][440]AssetCheck: New page: Asset Save: PlayerCharacter
+[2020.08.02-15.55.05:722][440]LogContentValidation: Display: Validating Blueprint /Game/Player/Blueprints/PlayerCharacter.PlayerCharacter
+[2020.08.02-15.55.40:205][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_MapFolder/TestGridMap_BuiltData" FILE="../../../../../../Users/doria/Documents/GitHub/Unending/MyProject/Content/_MapFolder/TestGridMap_BuiltData.uasset" SILENT=true
+[2020.08.02-15.55.40:218][510]LogSavePackage: Moving '../../../../../../Users/doria/Documents/GitHub/Unending/MyProject/Saved/TestGridMap_BuiltData989FB3B847A69603F83443A57AE1B0E0.tmp' to '../../../../../../Users/doria/Documents/GitHub/Unending/MyProject/Content/_MapFolder/TestGridMap_BuiltData.uasset'
+[2020.08.02-15.55.40:245][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.08.02-15.55.40:266][510]LogSavePackage: Moving '../../../../../../Users/doria/Documents/GitHub/Unending/MyProject/Saved/TestGridMap80F4C3AD405F4E2343ECD69335FCB8F4.tmp' to '../../../../../../Users/doria/Documents/GitHub/Unending/MyProject/Content/_MapFolder/TestGridMap.umap'
+[2020.08.02-15.55.40:271][510]LogFileHelpers: Saving map 'TestGridMap' took 0.051
+[2020.08.02-15.55.40:477][510]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/_MapFolder/GridMapTest_BuiltData.GridMapTest_BuiltData'
+[2020.08.02-15.55.40:482][510]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/_MapFolder/GridMapTest.GridMapTest'
+[2020.08.02-15.55.40:515][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.08.02-15.55.40:535][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.02-15.55.40:561][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.08.02-15.55.40:579][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.08.02-15.55.40:609][510]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-15.55.40:609][510]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_MapFolder/TestGridMap_BuiltData.TestGridMap_BuiltData
+[2020.08.02-15.55.40:609][510]LogContentValidation: Display: Validating World /Game/_MapFolder/TestGridMap.TestGridMap
+[2020.08.02-15.55.44:631][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.02-15.55.45:687][986]LogSlate: Window 'Save Content' being destroyed
+[2020.08.02-15.55.45:727][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.02-15.55.45:735][986]LogSavePackage: Moving '../../../../../../Users/doria/Documents/GitHub/Unending/MyProject/Saved/TestWorldGeneration9D6BC31D46895F8C4DCD3DB716BAAFE2.tmp' to '../../../../../../Users/doria/Documents/GitHub/Unending/MyProject/Content/_MapFolder/TestWorldGeneration.umap'
+[2020.08.02-15.55.45:737][986]LogFileHelpers: Saving map 'TestWorldGeneration' took 0.031
+[2020.08.02-15.55.45:747][986]AssetCheck: New page: Asset Save: TestWorldGeneration
+[2020.08.02-15.55.45:747][986]LogContentValidation: Display: Validating World /Game/_MapFolder/TestWorldGeneration.TestWorldGeneration
