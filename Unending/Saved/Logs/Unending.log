@@ -1,9 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 10/02/20 09:03:57
 LogInit: Display: Running engine for game: Unending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.394630
+=======
+﻿Log file open, 09/28/20 14:06:38
+LogInit: Display: Running engine for game: Unending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197685
+>>>>>>> parent of dca14bb... 0.1.5
 =======
 ﻿Log file open, 09/28/20 14:06:38
 LogInit: Display: Running engine for game: Unending
@@ -204,6 +212,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2020.10.02-07.03.58:894][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.10.02-07.03.58:894][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1460,6 +1469,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.02-07.18.28:517][388]LogExit: Exiting.
 [2020.10.02-07.18.28:521][388]Log file closed, 10/02/20 09:18:28
 =======
+=======
+>>>>>>> parent of dca14bb... 0.1.5
 [2020.09.28-12.06.39:013][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.09.28-12.06.39:013][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.09.28-12.06.39:013][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/doria/OneDrive/Documents/GitHub/Unending/Unending/Saved/Config/Windows/Engine.ini]
@@ -1940,4 +1951,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.28-12.12.20:874][115]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2020.09.28-12.18.49:581][223]LogSlate: Window 'W_SaveMenu' being destroyed
 [2020.09.28-12.18.57:823][711]LogSlate: Took 0.001532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+<<<<<<< HEAD
+>>>>>>> parent of dca14bb... 0.1.5
+=======
 >>>>>>> parent of dca14bb... 0.1.5
